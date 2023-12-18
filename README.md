@@ -1,4 +1,4 @@
-# Classification-of-Brain-tumour-MRI-using-Support-Vector-Machine
+# Classification-of-Brain-tumour-MRI-using-Quantum-Support-Vector-Machine
 In this project I have made use of Quantum Support Vector Machine to classify Brain tumour dataset. Quantum support vector machine is quantum analogue of classical support vector machine algorithm.Quantum Support Vector Machines (QSVMs) are a type of quantum machine learning algorithm that leverages principles from quantum computing to perform classification tasks. Here's a concise explanation:
 
 Traditional Support Vector Machines (SVMs) are classical algorithms used for classification tasks, aiming to find a hyperplane that best separates different classes in a dataset. Quantum Support Vector Machines, on the other hand, employ quantum computation techniques to enhance certain aspects of SVMs.
